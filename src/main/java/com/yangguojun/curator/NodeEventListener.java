@@ -1,4 +1,4 @@
-package com.yangguojun.zookeeper;
+package com.yangguojun.curator;
 
 /**
  * Created by yangguojun on 2017/12/22.

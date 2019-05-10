@@ -1,13 +1,9 @@
 package com.yangguojun;
 
-import com.yangguojun.zookeeper.NodeEvent;
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;
-import org.apache.curator.framework.api.ACLProvider;
 import org.apache.curator.framework.recipes.cache.*;
 import org.apache.curator.retry.RetryOneTime;
-import org.apache.zookeeper.ZooDefs;
-import org.apache.zookeeper.data.ACL;
 import org.junit.Test;
 
 import java.util.Arrays;

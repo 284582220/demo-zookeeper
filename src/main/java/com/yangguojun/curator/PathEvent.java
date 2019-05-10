@@ -1,4 +1,4 @@
-package com.yangguojun.zookeeper;
+package com.yangguojun.curator;
 
 import org.apache.curator.framework.recipes.cache.PathChildrenCacheEvent;
 

@@ -1,6 +1,6 @@
 package com.yangguojun;
 
-import com.yangguojun.zookeeper.*;
+import com.yangguojun.curator.*;
 import org.junit.Before;
 import org.junit.Test;
 
